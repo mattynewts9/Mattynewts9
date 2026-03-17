@@ -8,14 +8,17 @@ I'm a Junior software engineer with previous expierence in thermodynamic thermog
 I love using my problem solving abilities to solve real world problems and create a user-focused and impactful digital experience. My previous experience as a thermography engineer gave me hands on experience carrying out projects efficiently, communitcating with project managers on real-world user needs, which I apply to every project I work on.  
 <hr>
 
+🎓📚 Final bootcamp project
+
+I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BOX.api and a crime API. Allowing users to search hotels in a specific area, then providing users detailed crime statistics of the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
+<hr>
+
 🌐 Web 3 Experience
 
 I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge for Ethereum. My role involved networking with Web 3 companies, attending blockchain events, and collaborating on impactful solutions. This experience enhanced my skills in modern web technologies and deepened my understanding of the evolving Web 3 space.
 <hr border: 1px solid #cccccc;>
 
-🎓📚 Final bootcamp project
 
-I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BOX.api and a crime API. Allowing users to search hotels in a specific area, then providing users detailed crime statistics of the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
 
 🛠️ Languages & Tools
 

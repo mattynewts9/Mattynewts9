@@ -21,6 +21,7 @@ I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge fo
 🌍Interest
 
 When I'm not head deep in coding, you will find me often traveling to different places and experiencing different cultures. Becoming fluent in Mandarin Chinese is another big goal of mine, since young I have been fasinated by the language and culture. I'm currently B2 level Mandarin Chinese Certified. Another big aspect of my life is fitness and sports, I believe keeping fit and active is comparable to building a web application, every day is a way to improve & build better than yesterday.
+<hr border: 1px solid #cccccc;>
 
 🛠️ Languages & Tools
 

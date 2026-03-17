@@ -3,14 +3,14 @@
 
 **<ins>`About me`<ins>**
 
-I'm a Junior software engineer with previous expierence in thermodynamic thermography systems, taking charge of projects with high end clients within central London. After transitioning into tech, I completed the web development bootcamp at Le Wagon in where I gained hands on experience building web applications using Javascript, Ruby on rails, HTML, CSS and SQL.
+I'm a Junior software engineer with previous experience in thermodynamic thermographic systems, taking charge of projects with high end clients within central London. After transitioning into tech, I completed the web development bootcamp at Le Wagon in where I gained hands on experience building web applications using Javascript, Ruby on rails, HTML, CSS and SQL.
 
-I love using my problem solving abilities to solve real world problems and create a user-focused and impactful digital experience. My previous experience as a thermography engineer gave me hands on experience carrying out projects efficiently, communitcating with project managers on real-world user needs, which I apply to every project I work on.  
+I love using my problem solving abilities to solve real world problems and create a user-focused and impactful digital experience. My previous experience as a Thermography Engineer gave me hands on experience carrying out projects efficiently, communitcating with project managers on real-world user needs, which I apply to every project I work on.  
 <hr>
 
 🎓📚 Final bootcamp project
 
-I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BOX.api & UK police crime data API. Allowing users to search hotels in a specific area, then providing detailed crime statistics of the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
+I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BOX.api & UK police crime data API. Allowing users to search hotels in a specific area, then providing detailed crime statistics surrounding the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
 <hr>
 
 🌐 Web 3 Experience
@@ -18,7 +18,9 @@ I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BO
 I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge for Ethereum. My role involved networking with Web 3 companies, attending blockchain events, and collaborating on impactful solutions. This experience enhanced my skills in modern web technologies and deepened my understanding of the evolving Web 3 space.
 <hr border: 1px solid #cccccc;>
 
+🌍Interest
 
+When I'm not head deep in coding, you will find me often traveling to different places and experiencing different cultures. Becoming fluent in Mandarin Chinese is another big goal of mine, since young I have been fasinated by the language and culture. I'm currently B2 level Mandarin Chinese Certified. Another big aspect of my life is fitness and sports, I see keeping fit and active is comparable to building a web application, every day is a way to improve & build better than yesterday.
 
 🛠️ Languages & Tools
 

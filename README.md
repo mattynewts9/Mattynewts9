@@ -10,7 +10,7 @@ I love using my problem solving abilities to solve real world problems and creat
 
 🎓📚 Final Bootcamp Project
 
-I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BOX.api & UK police crime data API. Allowing users to search hotels in a specific area, then providing detailed crime statistics surrounding the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
+I Led the development of Travel-Guardian, a hotel booking app intigrating Map-Box.api & UK police crime data API. Allowing users to search hotels in a specific area, then providing detailed crime statistics surrounding the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
 <hr>
 
 🌐 Web 3 Experience

@@ -1,7 +1,7 @@
 <div align="center"><h1> 🌱 Hi! I'm Mathew </h1></div>
 <br>
 
-**`<ins>About me`<ins>**
+**<ins>`About me`<ins>**
 
 I'm a Junior software engineer with previous expierence in thermodynamic thermography systems, taking charge of projects with high end clients within central London. After transitioning into tech, I completed the web development bootcamp at Le Wagon in where I gained hands on experience building web applications using Javascript, Ruby on rails, HTML, CSS and SQL.
 

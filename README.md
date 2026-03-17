@@ -3,7 +3,7 @@
 
 **<ins>`About me`<ins>**
 
-I'm a Junior software engineer with previous experience in thermodynamic thermographic systems, taking charge of projects with high end clients within central London. After transitioning into tech, I completed the web development bootcamp at Le Wagon in where I gained hands on experience building web applications using Javascript, Ruby on rails, HTML, CSS and SQL.
+I'm a Junior software engineer with previous experience in thermodynamic thermographic systems, taking charge of projects with high end clients within central London. After transitioning into tech, I completed the web development bootcamp at Le Wagon in where I gained hands on experience building web applications using Javascript, Ruby on Rails, HTML, CSS and SQL.
 
 I love using my problem solving abilities to solve real world problems and create a user-focused and impactful digital experience. My previous work-experience as a Thermography Engineer gave me hands on expertise carrying out projects efficiently, communitcating with project managers on real-world user needs. Which I apply to every project I work on.  
 <hr>

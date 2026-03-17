@@ -3,7 +3,7 @@
 
 **`Web Developer (Exploring Web Technologies with Enthusiasm and Precision)`**
 
-I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications. Also am a current learner of Mandarin chinese where I have reached HSK3 profiency.
+I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications. Also am a current learner of Mandarin chinese where I have reached HSK4 profiency.
 <hr>
 
 🌐 Web 3 Experience
@@ -13,7 +13,7 @@ I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge fo
 
 🎓 Current Studies
 
-I am currently studying at [Le Wagon’s Web Development Bootcamp](https://www.lewagon.com), where I’m advancing my skills in modern web technologies and development practices. This intensive program is equipping me with hands-on experience and practical knowledge to excel in the tech industry.
+I am a current alumuni at [Le Wagon’s Web Development Bootcamp](https://www.lewagon.com), where I’m advancing my skills in modern web technologies and development practices. This intensive program is equipping me with hands-on experience and practical knowledge to excel in the tech industry.
 
 🛠️ Languages & Tools
 

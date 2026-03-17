@@ -1,9 +1,11 @@
 <div align="center"><h1> 🌱 Hi! I'm Mathew </h1></div>
 <br>
 
-**`Web Developer (Exploring Web Technologies with Enthusiasm and Precision)`**
+**`<ins>About me`<ins>**
 
-I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications. Also am a current learner of Mandarin chinese where I have reached HSK4 profiency.
+I'm a Junior software engineer with previous expierence in thermodynamic thermography systems, taking charge of projects with high end clients within central London. After transitioning into tech, I completed the web development bootcamp at Le Wagon in where I gained hands on experience building web applications using Javascript, Ruby on rails, HTML, CSS and SQL.
+
+I love using my problem solving abilities to solve real world problems and create a user-focused and impactful digital experience. My previous experience as a thermography engineer gave me hands on experience carrying out projects efficiently, communitcating with project managers on real-world user needs, which I apply to every project I work on.  
 <hr>
 
 🌐 Web 3 Experience
@@ -11,9 +13,9 @@ I’m a passionate web developer with experience in both traditional and Web 3 t
 I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge for Ethereum. My role involved networking with Web 3 companies, attending blockchain events, and collaborating on impactful solutions. This experience enhanced my skills in modern web technologies and deepened my understanding of the evolving Web 3 space.
 <hr border: 1px solid #cccccc;>
 
-🎓 Current Studies
+🎓📚 Final bootcamp project
 
-I am a current alumuni at [Le Wagon’s Web Development Bootcamp](https://www.lewagon.com), where I’m advancing my skills in modern web technologies and development practices. This intensive program is equipping me with hands-on experience and practical knowledge to excel in the tech industry.
+I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BOX.api and a crime API. Allowing users to search hotels in a specific area, then providing users detailed crime statistics of the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
 
 🛠️ Languages & Tools
 

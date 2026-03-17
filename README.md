@@ -30,7 +30,7 @@ When I'm not head deep in coding, you will find me often traveling to different 
 <hr border: 1px solid #cccccc;>
 
 
-📫 Get in Touch
+📫 **Get in Touch**
 
   <a href="http://linkedin.com/in/mathew-newton1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>

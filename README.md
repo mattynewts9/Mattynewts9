@@ -8,7 +8,7 @@ I'm a Junior software engineer with previous experience in thermodynamic thermog
 I love using my problem solving abilities to solve real world problems and create a user-focused and impactful digital experience. My previous work-experience as a Thermography Engineer gave me hands on expertise carrying out projects efficiently, communitcating with project managers on real-world user needs. Which I apply to every project I work on.  
 <hr>
 
-🎓📚 Final bootcamp project
+🎓📚 Final Bootcamp Project
 
 I Led the development of Travel-Guardian, a hotel booking app intigrating MAP-BOX.api & UK police crime data API. Allowing users to search hotels in a specific area, then providing detailed crime statistics surrounding the selected hotel. Whether a tourist or a local, Travel-Guardian provides all users to feel at eaze when traveling to any UK destination.
 <hr>
